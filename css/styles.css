@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #445;
+  color: #fff;
+  font-family: "Helvetica Neue";
+}
+nav {
+  border-top: 1px solid #113;
+  border-bottom: 1px solid #113;
+}
